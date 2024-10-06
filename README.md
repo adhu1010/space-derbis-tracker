@@ -1,1 +1,2 @@
 # space-derbis-tracker
+The app would provide real-time tracking and predictive analytics of space debris movement in Earth's orbit. It would integrate data from multiple sources such as NORAD's public catalog, satellite tracking systems, and other space surveillance networks to predict potential collisions and alert satellite operators. The app would be useful for governments, space agencies, satellite operators, and even educational purposes to visualize and understand space debris dynamics.
